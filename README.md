@@ -12,13 +12,15 @@ Create some plots and data tables to present your results.
   
 ## Resources
   
+Dataset provided: crypto_data.csv
+  
 ### Data Preprocessing
   
-Dataset provided: crypto_data.csv
+The data from the csv file is read into a crypto_df dataframe and a bunch of proprocessing steps are applied. This data is then scaled using StandardScaler from sklearn.
   
 ### Reducing Data Dimensions Using PCA
   
-the data is standardised from sklearn. The PCA algorithm uses this scaled data and produces 3 components
+The PCA algorithm uses this scaled data and produces 3 components
 
 ![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/PCA.PNG)
   
@@ -35,7 +37,7 @@ The dataframe clustered_df is created
   
 ### Visualizations
   
-Clustered_df 3D scatter plot using ploylt express
+Clustered_df 3D scatter plot using plotly express
   
 ![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/3D%20Scatter.PNG)
   
