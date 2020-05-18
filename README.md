@@ -29,15 +29,22 @@ Elbow curve method is applied to get the best fit number of clusters. The best f
   
 ![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/Elbow%20Curve.PNG)
   
-hvplot.scatter is used on pcs_df
-  
-![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/3D%20Scatter.PNG)
-  
 The dataframe clustered_df is created
   
 ![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/clustered_df.PNG)
   
-
-### Summary
+### Visualizations
   
-Given the results of the above modesl, none of them is adequate enough to predict credist risk truly.
+Clustered_df 3D scatter plot using ploylt express
+  
+![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/3D%20Scatter.PNG)
+  
+Data table with all the current tradable cryptocurrencies using hvplot.table
+  
+![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/hvplot%20table.PNG)
+  
+Scatter plot using hvplot.scatter to present the clustered data
+  
+![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/clustered_df%20scatter%20plot.PNG)
+  
+
