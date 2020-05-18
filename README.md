@@ -12,7 +12,7 @@ Create some plots and data tables to present your results.
   
 ## Resources
   
-Dataset provided: crypto_data.csv
+Dataset provided: crypto_data.csv (https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/crypto_data.csv)
   
 ### Data Preprocessing
   
@@ -49,4 +49,4 @@ Scatter plot using hvplot.scatter to present the clustered data
   
 ![alt_text](https://github.com/29bharat/Cryptocurrencies/blob/master/Resources/clustered_df%20scatter%20plot.PNG)
   
-
+Link to the jupyter notebook file: https://github.com/29bharat/Cryptocurrencies/blob/master/Challenge%2018%20-%20Cryptocurrency%20.ipynb
